@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Just a list of my favourite things : 
+* cat
+* cats
